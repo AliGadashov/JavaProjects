@@ -24,7 +24,7 @@ public class Main {
 
         u = (a + b + hipotenus)/2;
 
-        perimetr = 2 * u;
+        perimetr = 2*u;
 
         System.out.println("Ucgenin cevresi: " + perimetr);
 
